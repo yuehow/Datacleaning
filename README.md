@@ -22,7 +22,7 @@ Following are steps to achieve this goal.
 9. replace activities with its name corresponding to activity_labels.txt
 10. summarize/analyze step 9 data frame for each activity and subject
 11. replace feature names by appending "Avg of" up front
-12  output the final result of step 11 into a csv file
+12.  output the final result of step 11 into a csv file
 
  
 

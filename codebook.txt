@@ -27,12 +27,12 @@ average of measures of mean and standard deviation features for each activity an
 The following is the detail description of each variable
 	
 	Activity : 
-	         1 : WALKING
-	         2 : WALKING_UPSTAIRS
-			 3 : WALKING_DOWNSTAIRS
-			 4 : SITTING
-			 5 : STANDING
-			 6 : LAYING
+		1 : WALKING
+		2 : WALKING_UPSTAIRS
+		3 : WALKING_DOWNSTAIRS
+		4 : SITTING
+		5 : STANDING
+		6 : LAYING
 			 
 	Subject : 1 - 30 represents each individual volunteers
 	
