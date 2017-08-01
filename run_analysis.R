@@ -60,6 +60,6 @@ colnames(avgDB)<-names
 
 
 ## write to a csv file
-write.csv(avgDB, "AverageMeanStdDataset.csv")
+write.table(avgDB, "AverageMeanStdDataset.txt", row.names = FALSE)
 
 }
